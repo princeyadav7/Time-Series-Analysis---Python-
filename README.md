@@ -40,7 +40,3 @@ This project involves an in-depth analysis of historical gold price data from 19
 #### Contributions
 
 - Contributions to the project are welcome via issues or pull requests.
-
----
-
-This overview highlights key aspects of the project, showcasing technical skills and achievements in a manner that is optimized for Applicant Tracking Systems (ATS).
